@@ -27,7 +27,7 @@ The wireframe created and used- [Wireframe](assets/images/wireframe.png)
 
 * #### Heading
 
-![Heading](assets/heading/about.png)
+![Heading](assets/images/heading.png)
     * This section clearly demonstrates to users what game they will be playing. As its a game familiar with most people, users will immediately know if they will like the game or not.
 
 * #### Game Area
