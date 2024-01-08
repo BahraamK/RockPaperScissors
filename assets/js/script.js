@@ -29,6 +29,17 @@ function startGame(playerOption) {
     computerDecision.textContent = `Computer: ${computerOption}`;
     playerDecision.textContent = `Player: ${playerOption}`;
     result.textContent = outcome;
+    
+    switch (outcome) {
+        case "You Lose":
+            playerScore++;
+            playerScore.textContent = playerScore;
+            break;
+        case "You Lose":
+            computerScore++;
+            computerScore.textContent = computerScore;
+            break;
+    }
 }
 
 
