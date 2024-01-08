@@ -68,3 +68,13 @@ The wireframe created and used- [Wireframe](assets/images/wireframe.png)
 * I used the site on my personal phone and laptop and it has been used by family members with different types of phones
 * The site was checked at different sized devices using developer tools
 
+### Bugs
+
+#### Known, Unfixed Bugs
+
+* All bugs known that occured during testing has been fixed.
+
+#### Fixed Bugs
+
+* Score tracker would not work. I fixed this by declaring a variable which allowed score values to begin from 0.
+* Keywords were showing up as undefined. I fixed this by rearranging the positions of the curly bracket to correct the scope.
