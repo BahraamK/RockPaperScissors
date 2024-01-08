@@ -13,13 +13,15 @@
     </header>
     <section class="game-area">
         <div class="options">
-            <button id="rock">🪨</button>
-            <button id="paper">📃</button>
-            <button id="scissors">✂️</button>
+            <button onclick="startGame ('rock')">🪨</button>
+            <button onclick="startGame ('paper')">📃</button>
+            <button onclick="startGame ('scissors')">✂️</button>
         </div>
         <div class="decisions">
             <p>
-                Player:<br>Computer:<br><span id="result">result</span>
+              <span id="player-decision">Player:</span><br>
+              <span id="computer-decision">Computer:</span><br>
+              <span id="result"></span>
             </p>
         </div>
         <div class="score">
