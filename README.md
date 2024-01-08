@@ -38,12 +38,13 @@ The wireframe created and used- [Wireframe](assets/images/wireframe.png)
 * #### The Score Tracker
 
 ![Score Tracker](assets/images/scores.png)
-    * The score tracker accumaltes the points between the user and the computer after each game is played. This is useful for a user who wants to play multiple times and easily keep track of how well they are doing.
+* The score tracker accumaltes the points between the user and the computer after each game is played. This is useful for a user who wants to play multiple times and easily keep track of how well they are doing.
 
 * #### Footer
 
 ![Footer](assets/images/rules.png)
-    * This section states the rules of the game. This is for users who have never played the game before who wants to know how it works.
+    
+* This section states the rules of the game. This is for users who have never played the game before who wants to know how it works.
 
 ### Feature ideas to implement
 
