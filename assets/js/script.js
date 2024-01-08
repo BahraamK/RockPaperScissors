@@ -8,6 +8,24 @@ const computerScore = document.getElementById("computer-score");
 
 function startGame(playerOption) {
     const computerOption = options[Math.floor(Math.random() * 3)];
+    let result = "";
+    if (playerOption === computerOption) {
+        result = "You Tied";
+    }
+    else {
+        switch (playerOption) {
+            case "rock":
+                result = (computerOption === "scissors") ? "You Won" : "You Lose";
+                break;
+            case "paper":
+                result = (computerOption === "rock") ? "You Won" : "You Lose";
+                break;
+            case "scissors":
+                result = (computerOption === "paper") ? "You Won" : "You Lose";
+                break;
+        }
+
+    }
 }
 
 
