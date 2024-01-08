@@ -6,6 +6,9 @@ const result = document.getElementById("result");
 const playerScore= document.getElementById("player-score");
 const computerScore = document.getElementById("computer-score");
 
+let playerWins=0;
+let computerWins=0;
+
 function startGame(playerOption) {
     const computerOption = options[Math.floor(Math.random() * 3)];
     let outcome = "";
@@ -31,13 +34,13 @@ function startGame(playerOption) {
     result.textContent = outcome;
     
     switch (outcome) {
-        case "You Lose":
-            playerScore++;
-            playerScore.textContent = playerScore;
+        case "You Won":
+            playerWins++;
+            playerScore.textContent = playerWins;
             break;
         case "You Lose":
-            computerScore++;
-            computerScore.textContent = computerScore;
+            computerWins++;
+            computerScore.textContent = computerWins;
             break;
     }
 }
