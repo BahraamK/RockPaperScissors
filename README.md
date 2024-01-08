@@ -51,5 +51,20 @@ The wireframe created and used- [Wireframe](assets/images/wireframe.png)
 * A leaderboard showing people who have played the game with the most wins
 * A rate and review section
 
+## Testing
 
+### Validator testing
+
+* HTML has been validated using <https://validator.w3.org/nu/?doc=https%3A%2F%2Fbahraamk.github.io%2FRockPaperScissors%2F> , no errors were found
+* CSS has been validated using <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbahraamk.github.io%2FRockPaperScissors%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>, no errors were found
+
+### Lighthouse testing
+
+* The site scored 100 on mobile accessibility using [Pagespeed](https://pagespeed.web.dev/analysis/https-bahraamk-github-io-RockPaperScissors/h9m5avglt7?form_factor=mobile)
+* The site scored 100 on desktop accessibility using[PageSpeed](https://pagespeed.web.dev/analysis/https-bahraamk-github-io-RockPaperScissors/h9m5avglt7?form_factor=desktop)
+
+### General testing
+
+* I used the site on my personal phone and laptop and it has been used by family members with different types of phones
+* The site was checked at different sized devices using developer tools
 
