@@ -28,7 +28,7 @@ img {
     height: 200px;
     width: 300px
 }
-
+/*Adjusts font sizes for large devices*/
 @media only screen and (min-width: 1000px) {
     body {
         font-size: 25px;
