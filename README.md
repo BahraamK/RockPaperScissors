@@ -28,12 +28,12 @@ The wireframe created and used- [Wireframe](assets/images/wireframe.png)
 * #### Heading
 
 ![Heading](assets/images/heading.png)
-    * This section clearly demonstrates to users what game they will be playing. As its a game familiar with most people, users will immediately know if they will like the game or not.
+ * This section clearly demonstrates to users what game they will be playing. As its a game familiar with most people, users will immediately know if they will like the game or not.
 
 * #### Game Area
 
 ![Game Area](assets/images/game.area.png)
-    * The area consists of the buttons for the rock, paper and scissors which start the game. This area also shows the decisions the user as well as the computer has made which will be followed by a comment saying who won the game. This allows for easy understanding of the game as the layout is simple and the programme will tell the user who has won or lost or tied in the game.
+* The area consists of the buttons for the rock, paper and scissors which start the game. This area also shows the decisions the user as well as the computer has made which will be followed by a comment saying who won the game. This allows for easy understanding of the game as the layout is simple and the programme will tell the user who has won or lost or tied in the game.
 
 * #### The Score Tracker
 
