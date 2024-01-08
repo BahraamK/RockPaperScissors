@@ -78,3 +78,23 @@ The wireframe created and used- [Wireframe](assets/images/wireframe.png)
 
 * Score tracker would not work. I fixed this by declaring a variable which allowed score values to begin from 0.
 * Keywords were showing up as undefined. I fixed this by rearranging the positions of the curly bracket to correct the scope.
+
+## Deployment
+
+1. The deployment process for the site was too GitHub Pages and involved the following steps:
+2. Go to the Settings tab within the GitHub repository.
+3. Under the general settings, within the code and automation channel, select the pages tab.
+4. Under the subheading "branch", select the main branch.
+5. Click the save button, refresh the page and wait a couple inutes to see the live site link towards the top of the page.
+RockPaperScissors live link- <https://bahraamk.github.io/RockPaperScissors/>
+
+## Credits
+
+### Content
+
+* The template used was the [CI full template](https://github.com/Code-Institute-Org/ci-full-template)
+* Some inspiration for the switch statements came from [W3schools](https://www.w3schools.com/).
+
+### Media
+
+* The image used in the webpage was obtained from [pinterest](https://www.pinterest.co.uk/pin/388365167884184835/). The link contains the user the image was obtained from as well as a link to their website.
