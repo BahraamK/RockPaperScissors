@@ -26,6 +26,9 @@ function startGame(playerOption) {
         }
 
     }
+    computerDecision.textContent = `Computer: ${computerOption}`;
+    playerDecision.textContent = `Player: ${playerOption}`;
+    result.textContent = result;
 }
 
 
